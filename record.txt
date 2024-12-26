@@ -1,0 +1,9 @@
+Name: Rima 
+ Roll: 01 
+ favourite sub: Math
+ Name: Naira 
+ Roll: 02 
+ favourite sub: Math
+ Name:Nira 
+  Roll: 03 
+ favourite sub: English
